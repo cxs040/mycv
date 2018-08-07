@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -19,7 +19,7 @@ sidebar:
     github: cxs040
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -29,7 +29,7 @@ sidebar:
 
       - idiom: Chinese Mandarin
         level: Native
-        
+
     interests:
       - item: Basketball
         link:
@@ -53,8 +53,9 @@ career-profile:
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      major: Computer Science
+      university: University of Arkansas
+      time: 2014 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,7 +64,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -76,7 +77,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -94,7 +95,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -171,7 +172,7 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-        
+
 publications:
     title: Publications
     intro: |
@@ -191,4 +192,3 @@ publications:
       - title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
