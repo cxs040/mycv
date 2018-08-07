@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: chengsi@gmail.com
-    phone: 5
+    phone: 501-269-8867
     website: #do not add http://
-    linkedin: alandoe
+    linkedin: www.linkedin.com/in/andysi1
     github: cxs040
     gitlab:
     bitbucket:
@@ -55,33 +55,16 @@ education:
     - degree: MSc in Computer Science
       university: University of Arkansas at Fayetteville
       time: 2014 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: BSc in Applied Mathematics & Economics
       university: University of Arkansas at Fayetteville
       time: 2008 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      # details: |
 
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2018 - Present
+      company: IBM 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
