@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: Flase # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Cheng Si
@@ -53,8 +53,7 @@ career-profile:
 
 education:
     - degree: MSc in Computer Science
-      major: Computer Science
-      university: University of Arkansas
+      university: University of Arkansas at Fayetteville
       time: 2014 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -66,9 +65,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Applied Mathematics & Economics
+      university: University of Arkansas at Fayetteville
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
