@@ -4,7 +4,7 @@
 
 sidebar:
     about: Flase # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Cheng Si
@@ -56,7 +56,11 @@ education:
       university: University of Arkansas at Fayetteville
       time: 2014 - 2016
 
-    - degree: BSc in Applied Mathematics & Economics
+    - degree: BSc in Applied Mathematics
+      university: University of Arkansas at Fayetteville
+      time: 2008 - 2012
+
+    - degree: BSc in Economics
       university: University of Arkansas at Fayetteville
       time: 2008 - 2012
       # details: |
@@ -66,16 +70,16 @@ experiences:
       time: 2018 - Present
       company: IBM, CIC Rocket Center, WV
       details: |
-        •	Developing and implementing applications for projects which
+        -	Developing and implementing applications for projects which
           related to public sector clients.
 
     - role: Data Analyst
       time: 2016 - 2017
       company: KIBO eCommerce, Dallas, TX
       details: |
-        •	Developed multiple API-Call script tools and applications to perform ELT (Extract, Load, Transform) data process
+        -	Developed multiple API-Call script tools and applications to perform ELT (Extract, Load, Transform) data process
         using Python/Django, PHP, VB and responsible for creating metrics report that was presented to top management to draw conclusion.
-        •	Contributed coding and managing in the development of products through the software life-cycle,
+        -	Contributed coding and managing in the development of products through the software life-cycle,
         from requirements definition to successful deployment using Java/J2EE, Python/Django, PL/SQL, and relative front-end tech.
 
 
@@ -83,16 +87,16 @@ experiences:
       time: 2014 - 2016
       company: University of Arkansas, Fayetteville, AR
       details: |
-        •	Assisted professor with data analysis and built up mathematics model for different research projects using Matlab and R.
-        •	Correspond with students on Blackboard or related inter-campus communication system.
+        -	Assisted professor with data analysis and built up mathematics model for different research projects using Matlab and R.
+        -	Correspond with students on Blackboard or related inter-campus communication system.
 
       role: IT technician
       time: 2012 - 2014
       company: University of Arkansas Medical School, Fayetteville, AR
       details: |
-        •	Troubleshot computer problems and resolve network issues such as network switch IP problem.
-        •	Maintained systems and tested computer software and hardware for the IT department.
-        •	Developed data management applications by using C#.
+        -	Troubleshot computer problems and resolve network issues such as network switch IP problem.
+        -	Maintained systems and tested computer software and hardware for the IT department.
+        -	Developed data management applications by using C#.
 
 
 projects:
