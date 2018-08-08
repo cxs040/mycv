@@ -141,8 +141,7 @@ skills:
 
 publications:
     title: Publications
-    intro: |
-
+    # intro: |
     papers:
       - title: Regression Model Fitting under Differential Privacy and Model Inversion Attack
         authors: Cheng Si, Yue Wang, Xintao Wu
