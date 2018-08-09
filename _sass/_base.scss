@@ -210,6 +210,7 @@ p {
         }
         .item {
             margin-bottom: 15px;
+            text-align: center;
         }
     }
 
@@ -245,6 +246,28 @@ p {
         margin-bottom: 1px;
     }
     .publications-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+            text-align: center;
+        }
+    }
+    .certificate-title {
+        font-size: 16px;
+        font-weight: 400;
+        color: $text-color;
+        margin-bottom: 1px;
+        text-align: center;
+    }
+    .certificate-time {
+        font-style: italic;
+        color: $text-grey;
+        margin-bottom: 1px;
+        text-align: center;
+    }
+    .certificates-section {
         .intro {
             margin-bottom: 30px;
         }

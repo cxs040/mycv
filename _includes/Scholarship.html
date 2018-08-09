@@ -1,0 +1,19 @@
+{% assign scholarships = site.data.data.sidebar.scholarships %}
+{% if scholarships %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Scholarship
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for scholarship in scholarships %}
+    <li>
+      {{ scholarship.reward }}
+      <span class="lang-desc">{{ scholarship.detail }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}

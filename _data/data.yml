@@ -23,6 +23,10 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
+    scholarships:
+      - reward: Full Research Scholarship
+      - detail: Graduate School
+      
     languages:
       - idiom: English
         level: Native
@@ -43,13 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      As a , I have worked for different companies for total four years, which include
+      blah blah blah blah
 
-      Second paragraph if required.
+      I am outgoing, working hard person.
 
 education:
     - degree: MSc in Computer Science
@@ -90,7 +91,7 @@ experiences:
         -	Assisted professor with data analysis and built up mathematics model for different research projects using Matlab and R.
         -	Correspond with students on Blackboard or related inter-campus communication system.
 
-      role: IT technician
+    - role: IT technician
       time: 2012 - 2014
       company: University of Arkansas Medical School, Fayetteville, AR
       details: |
@@ -101,15 +102,12 @@ experiences:
 
 projects:
     title: Projects
-    # intro: >
-    #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
-    # assignments:
-    #   - title: Velocity
-    #     link: "#hook"
-    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Customer Relationship Management(CRM) Applicatioin
+        link: "#hook"
+        tagline: "A spring MVC Hibernate aplication designed to help companies to manage their customers information such as add, update and change their customer's Name, Email, Phone#."
 
 skills:
     title: Skills &amp; Proficiency
@@ -147,3 +145,10 @@ publications:
         authors: Cheng Si, Yue Wang, Xintao Wu
         conference: International Joint Conferences on Artificial Intelligence(IJCAI), 2015
         website: www.ijcai.org/Proceedings/15/Papers/146.pdf
+
+certificates:
+    title: Certificates
+    # intro: |
+    license:
+      - title: AWS Certified Solutions Architect - Assocaite
+        time: "Issue Date: July 2018, Expiration Date: July 28, 2020"
