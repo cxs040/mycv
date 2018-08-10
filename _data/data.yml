@@ -15,7 +15,7 @@ sidebar:
     email: chengsi@gmail.com
     phone: 501-269-8867
     website: #do not add http://
-    linkedin: www.linkedin.com/in/andysi1
+    linkedin: www.linkedin.com/in/chengsi1/
     github: cxs040
     gitlab:
     bitbucket:
@@ -26,7 +26,7 @@ sidebar:
     scholarships:
       - reward: Full Research Scholarship
       - detail: Graduate School
-      
+
     languages:
       - idiom: English
         level: Native
@@ -35,22 +35,30 @@ sidebar:
         level: Native
 
     interests:
-      - item: Basketball
+      - item: Sports
         link:
 
-      - item: Workout
+      - item: Movie
         link:
 
       - item: Cooking
         link:
 
+      - item: Travel
+        link:
+
+      - item: Read book
+        link:
+
 career-profile:
     title: Career Profile
-    summary: |
-      As a , I have worked for different companies for total four years, which include
-      blah blah blah blah
 
-      I am outgoing, working hard person.
+    summaries:
+        - summary: |
+            - 2+ years of experience on industrial level software development lifecycle.
+
+        - summary: |
+            - 4+ years of extensive data analysis experience including research projects and business requirements.
 
 education:
     - degree: MSc in Computer Science
@@ -106,7 +114,6 @@ projects:
 
     assignments:
       - title: Customer Relationship Management(CRM) Applicatioin
-        link: "#hook"
         tagline: "A spring MVC Hibernate aplication designed to help companies to manage their customers information such as add, update and change their customer's Name, Email, Phone#."
 
 skills:

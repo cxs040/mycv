@@ -10,9 +10,11 @@
     {{ career-profile.title }}
   </h2>
 
-  <div class="summary">
-    {{ career-profile.summary | markdownify }}
-  </div><!--//summary-->
-    
+  {% for profile in career-profile.summaries %}
+  <div class="Summary">
+      <p>{{ profile.summary | markdownify }}</p>
+  </div>
+  {% endfor %}
+
 </section><!--//section-->
 {% endif %}

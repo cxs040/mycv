@@ -20,11 +20,11 @@
     <div class="item">
 
       <span class="project-title">
-        <a href="{{ project.link }}" >{{ project.title }}</a><br />
+        {{ project.title }}<br />
       </span>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+       <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
