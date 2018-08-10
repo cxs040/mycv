@@ -1,9 +1,9 @@
 /* ======= Base ======= */
 body {
-    font-family:  sans-serif;
+    font-family:  Gill Sans;
     color: $text-color-secondary;
     background: $smoky-white;
-    font-size: 14px;
+    font-size: 15px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -63,8 +63,9 @@ p {
     }
     .tagline {
         color: rgba(256, 256, 256, 0.6);
-        font-size: 16px;
+        font-size: 20px;
         font-weight: 400;
+        font-family: Garamond;
         margin-top: 0;
         margin-bottom: 0;
     }
@@ -78,10 +79,10 @@ p {
     }
     .avatar {
         //used for profile image
-        max-width: 100px;
+        max-width: 125px;
         margin-bottom: 15px;
         border: 0px solid #fff;
-        border-radius: 100%;
+        border-radius: 50%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
     .contact-list {
@@ -166,14 +167,13 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        font-family: Gill Sans;
         color: darken($theme-color, 15%);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
     }
     .section {
-        margin-bottom: 60px;
+        margin-bottom: 40px;
     }
 
     .experiences-section, .educations-section {
@@ -188,10 +188,10 @@ p {
     }
     .job-title, .degree {
         color: $text-color;
-        font-size: 16px;
+        font-size: 17px;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: 500;
+        font-weight: 650;
     }
     .time {
         position: absolute;
@@ -203,7 +203,6 @@ p {
         margin-bottom: 10px;
         color: $text-grey;
         font-style: italic;
-        font-family: Gill Sans;
     }
 
     .project-title {
@@ -221,10 +220,16 @@ p {
             text-align: center;
         }
     }
-
+    .summary-section {
+        .summary {
+            margin-bottom: 15px;
+            font-size: 16px;
+            font-weight: 400;
+        }
+    }
     .skillset {
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
             overflow: hidden;
         }
         .level-title {
@@ -244,7 +249,7 @@ p {
 
     .publication-title {
         font-size: 16px;
-        font-weight: 500;
+        font-weight: 650px;
         font-style: italic;
         color: $text-color;
         margin-bottom: 1px;
