@@ -3,7 +3,8 @@
 # Site Settings
 title: My Resume
 url: 'chengsiworld.com'
-baseurl: '/mycv' #change it according to your repository name
+baseurl:  #change it according to your repository name
+# add '/mycv' back when working locally
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: green # blue turquoise green berry orange ceramic
 
