@@ -55,7 +55,7 @@ career-profile:
 
     summaries:
         - summary: |
-            Detail-oriented IT professional with 4+ years of experience as a software engineer and data engineer.
+            Detail-oriented IT professional with 3 years of experience as software engineer and data engineer.
             Skilled at developing in a wide range of platforms and frameworks. Excellent data analytical and problem-solving skills.
             Capable of explaining complex technology issues and application design in easy-to-understand terms.
 
@@ -81,7 +81,7 @@ experiences:
         -	Developing and implementing applications for projects which
           related to public sector clients.
 
-    - role: Data Analyst
+    - role: Data Engineer
       time: 2016 - 2017
       company: KIBO eCommerce, Dallas, TX
       details: |
