@@ -155,10 +155,10 @@ publications:
 certificates:
     title: Certificates
     # intro: |
-    license:
-      - title: AWS Certified Solutions Architect - Assocaite ()
+    - license:
+      - title: AWS Certified Solutions Architect - Assocaite
         time: "Issue Date: July 28, 2018 Expiration Date: July 28, 2020"
 
-    license:
-      - title: AWS Certified Developer - Assocaite ()
+    - license:
+      - title: AWS Certified Developer - Assocaite
         time: "Issue Date: Sep 01, 2018, Expiration Date: Sep 01, 2020"
