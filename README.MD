@@ -1,1 +1,1 @@
-Personal website for CV purpose
+Personal Jekyll website for CV purpose
