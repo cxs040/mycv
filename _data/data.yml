@@ -78,8 +78,10 @@ experiences:
       time: 2018 - Present
       company: IBM, CIC Rocket Center, WV
       details: |
-        -	Developing and implementing applications for projects which
-          related to public sector clients.
+        -	Developing micro-services application by using Java Spring, ReactJS. 
+        -	Migrating premise application/data center into AWS cloud environment. 
+            Providing AWS services architect solution to meet client’s requirements 
+            such as continuous integration, high available, fault-tolerance and high scalability. 
 
     - role: Data Engineer
       time: 2016 - 2017
