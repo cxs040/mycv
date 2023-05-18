@@ -7,12 +7,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Cheng Si
-    tagline: Technical Consultant
+    name: Andrew Si
+    tagline: AI/ML Data Engineering Manager at Accenture
     avatar: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: chengsi@gmail.com
+    email: chengsi300@gmail.com
     phone: 501-269-8867
     website: #do not add http://
     linkedin: www.linkedin.com/in/chengsi1/
@@ -55,9 +55,10 @@ career-profile:
 
     summaries:
         - summary: |
-            Detail-oriented IT professional with 3 years of experience as software engineer and data engineer.
-            Skilled at developing in a wide range of platforms and frameworks. Excellent data analytical and problem-solving skills.
-            Capable of explaining complex technology issues and application design in easy-to-understand terms.
+            Andrew is a highly motivated and meticulous technology professional, 
+            boasting extensive cloud experience. He possesses exceptional data analysis and problem-solving abilities, 
+            evident from his successful completion of numerous projects. 
+            Andrew is adept at articulating intricate technical matters and architectural designs using easily comprehensible language, catering to stakeholders of varying expertise levels.
 
 education:
     - degree: MSc in Computer Science
@@ -121,16 +122,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Large Scale IT project managment
+        level: 85%
+
+      - name: Python & Pyspark
+        level: 85%
+
+      - name: SQL & Tool
+        level: 85%
+
       - name: JAVA & Spring
-        level: 85%
-
-      - name: Python & Django
-        level: 85%
-
-      - name: SQL & MySql
-        level: 85%
-
-      - name: Javascript & jQuery & HTML5 & CSS
         level: 80%
 
       - name: AWS Architecture
